@@ -2,7 +2,7 @@
   "name": "com.audiokinetic.wwise.addressables",
   "version": "2025.1.2",
   "displayName": "Wwise Unity Addressables",
-  "description": "Wwise Unity Addressables",
+  "description": "Wwise Unity Addressables. To update the package, please use the Wwise Addressables Updater from Wwise->Update Addressables",
   "unity": "2021.3",
   "unityRelease": "32f1",
   "dependencies": {
